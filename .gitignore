@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (You may or may not want to ignore these)
+data/
